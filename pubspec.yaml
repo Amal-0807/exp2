@@ -1,7 +1,8 @@
-name: product_catalog
-description: Experiment 2 - 24CS2016 Building Applications using Flutter
-publish_to: 'none'
-version: 1.0.0+1
+name: exp2
+description: Flutter experiment 2 - a product catalog app with category panels and product cards.
+version: 1.0.0
+homepage: https://github.com/Amal-0807/exp2_product_catalog
+repository: https://github.com/Amal-0807/exp2_product_catalog
 
 environment:
   sdk: '>=3.4.0 <4.0.0'
